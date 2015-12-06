@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"11111");
+    
+    NSLog(@"2.0升级版!!");
 }
 
 @end
